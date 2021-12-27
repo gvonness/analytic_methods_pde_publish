@@ -1,0 +1,14 @@
+target
+/*/*.iml
+/.idea
+/.idea_modules
+/.project
+/.settings
+/project
+/.bsp
+*.aux
+*.idx
+*.log
+*.mtc*
+*.out
+*.toc
